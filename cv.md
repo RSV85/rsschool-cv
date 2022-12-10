@@ -2,8 +2,8 @@
 ## ***Contacts***
 * **Location:** Malaga, Spain
 * **Phone:** +34 633204337
-* **Email:** r.s.vernikovski@gmail.com
-* **Discord:** RSV85#2416
+* **Email:** <r.s.vernikovski@gmail.com>
+* **GitHub:** [RSV85](https://github.com/RSV85)
 ## ***About me***
 I currently work as a real estate consultant. I am a positive person and easily work both individually and in teamwork. Responsible and punctual. Eager to learn a new trade.
 ## ***Skills***
